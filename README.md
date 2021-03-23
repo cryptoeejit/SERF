@@ -14,7 +14,9 @@ To install and run the node, you need
 * [.NET Core SDK 3.1](https://www.microsoft.com/net/download/core)
 * [Git](https://git-scm.com/)
 
+```
 sudo snap install dotnet-sdk --classic --channel=3.1
+```
 
 ## Build instructions
 
