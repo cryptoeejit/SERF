@@ -41,17 +41,9 @@ dotnet run -testnet
 Use Wallet via your browser
 -----------------------
 
-A basic wallet is available using your favourite browser.
+A basic wallet is available using your favourite browser.  
 
-* For SERF Mainnet: http://localhost:15111
-* For SERF Testnet: http://localhost:25111
+* For SERF Mainnet: http://localhost:15113
+* For SERF Testnet: http://localhost:25113
 
 ### Advanced options
-
-Swagger Endpoints
--------------------
-
-Once the node is running, a Swagger interface (web UI for testing an API) is available.
-
-* For SERF: http://localhost:15113
-* For SERF Testnet: http://localhost:25113
