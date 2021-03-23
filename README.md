@@ -46,4 +46,12 @@ A basic wallet is available using your favourite browser.
 * For SERF Mainnet: http://localhost:15113
 * For SERF Testnet: http://localhost:25113
 
-### Advanced options
+### Troubleshooting and advanced options
+
+No peers showing
+----------------
+If no peers are showing as connected, make sure you have allowed the network port (15111 for Mainnet).  You can also use your wallet to add nodes manually.  
+Try these nodes: 
+45.32.246.83
+78.141.230.15
+149.28.243.41
