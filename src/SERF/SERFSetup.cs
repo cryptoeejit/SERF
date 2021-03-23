@@ -20,7 +20,7 @@ namespace SERF
          PremineReward = 1000000,
          PoWBlockReward = 8,
          PoSBlockReward = 2,
-         LastPowBlock = 1000000,
+         LastPowBlock = 10000000,
          GenesisText = "15-06-1215 - JOHN, by the grace of God King of England", // The New York Times, 2020-04-16
          TargetSpacing = TimeSpan.FromSeconds(120),
          ProofOfStakeTimestampMask = 0x0000000F, // 0x0000003F // 64 sec
