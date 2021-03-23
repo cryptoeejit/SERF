@@ -1,4 +1,4 @@
-# Getting started - Building and running a Stratis Full Node 
+# Getting started - Building and running a SERF Full Node 
 
 ---------------
 
