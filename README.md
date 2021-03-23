@@ -20,7 +20,6 @@ To install and run the node, you need
 
 ```
 git clone https://github.com/cryptoeejit/SERF.git  
-cd SERF/src
 ```
 
 ### Build and run the code
@@ -29,22 +28,14 @@ So you have 4 options:
 
 1. To run a <b>SERF</b> node on <b>MainNet</b>, do
 ```
-cd SERF
+cd SERF\src\SERF.Node
 dotnet run
 ```  
 
 2. To run a <b>SERF</b> node on <b>TestNet</b>, do
 ```
-cd SERF
+cd SERF\src\SERF.Node
 dotnet run -testnet
-```  
-
-### Advanced options
-
-You can get a list of command line arguments to pass to the node with the -help command line argument. For example:
-```
-cd SERF
-dotnet run -help
 ```  
 
 Use Wallet via your browser
@@ -52,8 +43,10 @@ Use Wallet via your browser
 
 A basic wallet is available using your favourite browser.
 
-* For SERF Mainnet: http://localhost:15113
-* For SERF Testnet: http://localhost:25113
+* For SERF Mainnet: http://localhost:15111
+* For SERF Testnet: http://localhost:25111
+
+### Advanced options
 
 Swagger Endpoints
 -------------------
